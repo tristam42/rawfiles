@@ -3,11 +3,12 @@
     { "version": "0.0.325", "label": "Kiosk 0.0.325 (Dev)" },
     { "version": "0.0.324", "label": "Kiosk 0.0.324 (Dev)" },
     { "version": "0.0.323", "label": "Kiosk 0.0.323 (Beta)" },
-    { "version": "0.0.302", "label": "Kiosk 0.0.302 (Stable)"  }
+    { "version": "0.0.302", "label": "Kiosk 0.0.302 (Stable)"}
   ],
   "game": [
     { "version": "0.0.228", "label": "Game 0.0.228 (Beta)" },
-    { "version": "0.0.198", "label": "Game 0.0.198 (Stable)" }
+    { "version": "0.0.198", "label": "Game 0.0.198 (Stable)"}
   ]
 }
+
 
