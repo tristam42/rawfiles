@@ -6,11 +6,13 @@
     { "version": "0.0.302", "label": "Kiosk 0.0.302 (Stable)"}
   ],
   "game": [
-     { "version": "0.0.232", "label": "Game 0.0.232 (Dev)" },
+    { "version": "0.0.242", "label": "Game 0.0.242 (Dev)" },
+    { "version": "0.0.232", "label": "Game 0.0.232 (Dev)" },
     { "version": "0.0.228", "label": "Game 0.0.228 (Beta)" },
     { "version": "0.0.198", "label": "Game 0.0.198 (Stable)"}
   ]
 }
+
 
 
 
