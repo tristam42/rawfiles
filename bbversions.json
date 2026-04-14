@@ -1,22 +1,23 @@
 {
   "kiosk": [
-    { "version": "0.0.360", "label": "Kiosk 0.0.360 (Dev)" },
-    { "version": "0.0.359", "label": "Kiosk 0.0.359 (Dev)" },
-    { "version": "0.0.354", "label": "Kiosk 0.0.354 (Dev)" },
-    { "version": "0.0.352", "label": "Kiosk 0.0.352 (Dev)" },    
-    { "version": "0.0.335", "label": "Kiosk 0.0.335 (Dev)" },
-    { "version": "0.0.325", "label": "Kiosk 0.0.325 (Dev)" },
-    { "version": "0.0.324", "label": "Kiosk 0.0.324 (Dev)" },
-    { "version": "0.0.323", "label": "Kiosk 0.0.323 (Beta)" },
+    { "version": "0.0.360", "label": "Kiosk 0.0.360 (Dev)"},
+    { "version": "0.0.359", "label": "Kiosk 0.0.359 (Dev)"},
+    { "version": "0.0.354", "label": "Kiosk 0.0.354 (Dev)"},
+    { "version": "0.0.352", "label": "Kiosk 0.0.352 (Dev)"},    
+    { "version": "0.0.335", "label": "Kiosk 0.0.335 (Dev)"},
+    { "version": "0.0.325", "label": "Kiosk 0.0.325 (Dev)"},
+    { "version": "0.0.324", "label": "Kiosk 0.0.324 (Dev)"},
+    { "version": "0.0.323", "label": "Kiosk 0.0.323 (Beta)"},
     { "version": "0.0.302", "label": "Kiosk 0.0.302 (Stable)"}
   ],
   "game": [
-    { "version": "0.0.264", "label": "Game 0.0.264 (Difficulty Slider)" },
-    { "version": "0.0.255", "label": "Game 0.0.255 (New Mode?)" },
-    { "version": "0.0.243", "label": "Game 0.0.243 (4MKTG)" },
-    { "version": "0.0.242", "label": "Game 0.0.242 (Dev)" },
-    { "version": "0.0.232", "label": "Game 0.0.232 (Dev)" },
-    { "version": "0.0.228", "label": "Game 0.0.228 (Beta)" },
+    { "version": "0.0.265", "label": "Game 0.0.265 (Difficulty Slider+Video)"},
+    { "version": "0.0.264", "label": "Game 0.0.264 (Difficulty Slider)"},
+    { "version": "0.0.255", "label": "Game 0.0.255 (New Mode?)"},
+    { "version": "0.0.243", "label": "Game 0.0.243 (4MKTG)"},
+    { "version": "0.0.242", "label": "Game 0.0.242 (Dev)"},
+    { "version": "0.0.232", "label": "Game 0.0.232 (Dev)"},
+    { "version": "0.0.228", "label": "Game 0.0.228 (Beta)"},
     { "version": "0.0.198", "label": "Game 0.0.198 (Stable)"}
   ]
 }
