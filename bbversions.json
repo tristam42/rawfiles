@@ -2,6 +2,7 @@
   "kiosk": [
     { "version": "0.0.360", "label": "Kiosk 0.0.360 (Dev)"},
     { "version": "0.0.359", "label": "Kiosk 0.0.359 (Dev)"},
+    { "version": "0.0.358", "label": "Kiosk 0.0.358 (Boost/Standard)"},
     { "version": "0.0.354", "label": "Kiosk 0.0.354 (Dev)"},
     { "version": "0.0.352", "label": "Kiosk 0.0.352 (Dev)"},    
     { "version": "0.0.335", "label": "Kiosk 0.0.335 (Dev)"},
