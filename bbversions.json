@@ -12,6 +12,7 @@
     { "version": "0.0.302", "label": "Kiosk 0.0.302 (Stable)"}
   ],
   "game": [
+    { "version": "0.0.277", "label": "Game 0.0.277 (VladVersion)"},
     { "version": "0.0.265", "label": "Game 0.0.265 (Difficulty Slider+Video)"},
     { "version": "0.0.264", "label": "Game 0.0.264 (Difficulty Slider)"},
     { "version": "0.0.255", "label": "Game 0.0.255 (New Mode?)"},
