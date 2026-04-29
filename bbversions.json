@@ -1,6 +1,7 @@
 {
   "kiosk": [
-    { "version": "0.0.360", "label": "Kiosk 0.0.366 (Boost/Standard Fixes)"}
+    { "version": "0.0.373", "label": "Kiosk 0.0.373 (Boost/Standard to Rookie/Pro)"},
+    { "version": "0.0.360", "label": "Kiosk 0.0.366 (Boost/Standard Fixes)"},
     { "version": "0.0.359", "label": "Kiosk 0.0.359 (Advanced Settings Slider)"},
     { "version": "0.0.358", "label": "Kiosk 0.0.358 (Boost/Standard)"},
     { "version": "0.0.354", "label": "Kiosk 0.0.354 (Dev)"},
