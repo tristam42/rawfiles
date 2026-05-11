@@ -13,8 +13,8 @@
     { "version": "0.0.302", "label": "Kiosk 0.0.302 (Stable)"}
   ],
   "game": [
-    { "version": "0.0.322", "label": "Game 0.0.322 (KontVersion)"},
-    { "version": "0.0.319", "label": "Game 0.0.319 (KontVersion)"},
+    { "version": "0.0.322", "label": "Game 0.0.322 (KonstVersion)"},
+    { "version": "0.0.319", "label": "Game 0.0.319 (KonstVersion)"},
     { "version": "0.0.316", "label": "Game 0.0.316 (VladVersion)"},
     { "version": "0.0.277", "label": "Game 0.0.277 (VladVersion)"},
     { "version": "0.0.265", "label": "Game 0.0.265 (Difficulty Slider+Video)"},
